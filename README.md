@@ -1,7 +1,7 @@
 # YoutubeAPI
 ![yt-data-api-search](https://github.com/user-attachments/assets/c0960e3a-72c4-4a3f-abf5-9e8661220dba)
 
-####YouTube Shorts Automation Script:
+## YouTube Shorts Automation Script:
 This script automates the process of downloading, processing, and uploading YouTube Shorts videos. It fetches trending English shorts from the USA, processes them by overlaying an image and adding custom audio, generates a random title, description, and tags, and finally uploads the video to YouTube with multi-language support. Additionally, it handles YouTube API authentication and can translate video titles and descriptions into 30 languages.
 
 ####Features:
